@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/binary"
+	"github.com/kevinma2010/clickhouse-go/v2/lib/binary"
 )
 
 type Bool struct {

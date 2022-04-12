@@ -23,7 +23,7 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
+	"github.com/kevinma2010/clickhouse-go/v2"
 )
 
 func example() error {

@@ -24,10 +24,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/contributors"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/proto"
+	"github.com/kevinma2010/clickhouse-go/v2/contributors"
+	"github.com/kevinma2010/clickhouse-go/v2/lib/column"
+	"github.com/kevinma2010/clickhouse-go/v2/lib/driver"
+	"github.com/kevinma2010/clickhouse-go/v2/lib/proto"
 )
 
 type Conn = driver.Conn

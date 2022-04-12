@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/proto"
+	"github.com/kevinma2010/clickhouse-go/v2/lib/proto"
 )
 
 // Connection::ping

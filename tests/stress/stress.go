@@ -28,8 +28,8 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
+	"github.com/kevinma2010/clickhouse-go/v2"
+	"github.com/kevinma2010/clickhouse-go/v2/lib/driver"
 	"github.com/google/uuid"
 	_ "github.com/mkevac/debugcharts"
 )
